@@ -1,15 +1,72 @@
 <html>
 
+<Head>
+<title> Exercises </title>
+
+</Head>
+
 <body>
 
-<strong><font colour="white"> IASC </strong></font>
+<strong><font color="grey"> IASC </strong></font>
 <font color="red"> 1P02 is </font>
-<em><font colour="white"> sweet? </em></font>
+<em><font color="grey"> sweet? </em></font>
+
+<br />
 
 
-<img src="https://pbs.twimg.com/profile_images/946998621584572417/yj02ARl3_400x400.jpg" />
+<img src="https://img.particlenews.com/img/id/1UDo2u_0Nzn6bf000?type=thumbnail_512x288" />
+
+<br />
+
+<img src="/Users/joshuapiette-walton/Desktop/IMG_4204.jpg" />
+
+<br />
 
 
+
+
+
+
+<ul>
+	<li>Number One</li>
+		<ol>
+			<li> Uno </li>
+			<li> Dous </li>
+			<li> Tres </li>
+		</ol>
+	</li>
+	<li>Number Two</li>
+	<li>Number Three</li>
+	</li>
+</ul>
+
+
+
+
+
+
+<br />
+
+
+<table width="200" height="200" border="1">
+<tr>
+	<td width="100" height="100">top left cell</td>
+	<td width="100" height="100">top right cell</td>
+	</tr>
+<tr>
+	<td colspan="2"> contents and stuff </td>
+</table>
+
+<hr />
+
+
+<table width="200" height="200" border="1">
+<tr>
+  	<td width="100" height="100">top left cell</td>
+	<td rowspan="2"> contents and stuff
+</tr>
+<tr>
+	<td width="100" height="100">bottom right cell</td>
 </body>
 
 
